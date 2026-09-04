@@ -1,0 +1,52 @@
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .card {
+        width: 500px;
+        height: fit-content;
+        background-color: aliceblue;
+        border-radius: 25px;
+        border: solid 2px rgb(21, 20, 103);
+        margin: 20px;
+        padding: 20px;
+      }
+
+      .card-green {
+        border: solid 2px green;
+      }
+
+      .avatar {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 20px 0 0 20px;
+      }
+
+      .avatar-square {
+        border-radius: 25px;
+        margin-top: 20px;
+      }
+
+      span {
+        color: rgb(18, 18, 105);
+      }
+	  .corpadrao{
+		color: rgb(23, 23, 131); 
+	  }
+
+      .nome {
+        font-size: 30px;
+      }
+
+      p {
+        font-family: monospace;
+        font-size: 15px;
+      }
+
+	  #mensagemAdriana{
+		font-style: italic;
+		color: red;
+	  }
+      
